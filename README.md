@@ -6,7 +6,7 @@ Sistema completo em Java para gerenciamento de alunos de artes marciais (Jiu-Jit
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Java 17+
+* **Linguagem:** Java 21
 * **Banco de Dados:** SQLite (via JDBC)
 * **IDE:** IntelliJ IDEA
 * **Versionamento:** Git & GitHub
